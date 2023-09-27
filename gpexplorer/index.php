@@ -24,13 +24,15 @@
     <section id="highscore">
 
     </section>
-    
+    <section id="rules">
+
+    </section>
     
     <footer>
         <ul>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li>Accueil</li>
+            <li>Temps réel</li>
+            <li>High Score</li>
         </ul>
     </footer>
 
