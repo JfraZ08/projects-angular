@@ -36,6 +36,12 @@
     Nostrum, veniam! Nisi quis autem alias rem accusantium repudiandae eos inventore voluptas quia dolor. Mollitia ducimus exercitationem quidem. Repudiandae accusamus maxime illo? Corporis accusantium iusto ullam adipisci dignissimos, impedit error.
     Eligendi nulla ab, velit dolorum quas porro dicta quasi eum, facere deserunt vero consequuntur! Harum, corporis repellat quos perferendis officia velit, id ipsum necessitatibus neque beatae pariatur adipisci ducimus. Earum.
     </section>
+    <section id="pseudo">
+        <h2>Création pseudo</h2>
+        <form action="" traitement="">
+
+        </form>
+    </section>
     
     <footer>
         <ul>
