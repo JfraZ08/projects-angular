@@ -39,7 +39,8 @@
     <section id="pseudo">
         <h2>Création pseudo</h2>
         <form action="" traitement="">
-
+            <label for="pseudo"></label>
+            <input type="text" id="pseudo" placeholder="Votre pseudo">
         </form>
     </section>
     
