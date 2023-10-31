@@ -1,0 +1,9 @@
+
+<label for="name"></label>
+<input type="text" id="name" placeholder="Votre nom" #maValeurInput>
+<label for="login"></label>
+<input type="text" id="login" placeholder="login" #MaValeurInput2>
+<label for="password"></label>
+<input type="text" name="password" id="password" placeholder="password" #MaValeurInput3>
+<button (click)="setData(maValeurInput.value,MaValeurInput2.value,MaValeurInput3.value)">Envoyer</button>
+
